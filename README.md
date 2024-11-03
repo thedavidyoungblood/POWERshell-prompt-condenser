@@ -1,5 +1,3 @@
-§ - "meRead" - as a 'mini-Readme,' in the script itself - §
-
 # Header Metadata
 **Script Name**: PowerShell Prompt Customization for Git Repository Root  
 **Author**: David Youngblood @ LouminAI Labs § louminai.com  

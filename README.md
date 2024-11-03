@@ -1,4 +1,4 @@
-In the context I provided, "root" was referring to the top-level folder in the current directory path. However, if by "root" you mean the **root of the current open repository** in your VS Code workspace, then we need to adjust the prompt function to dynamically detect the repository root, rather than just the top-level folder.
+To modify the PATH displayed in the PROMPT of your integrated Powershell Terminal, for the **root of the current open repository** in your VS Code workspace, you need to adjust the prompt function to dynamically detect the repository root, rather than just the top-level folder.
 
 To do this, we can use Git commands to identify the root of the current Git repository and adjust the prompt function accordingly. Here’s how you can modify the prompt function to achieve that:
 
